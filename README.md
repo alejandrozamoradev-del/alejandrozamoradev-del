@@ -68,12 +68,6 @@ Diseño y despliegue de infraestructura Cat6 para más de 40 puntos de red, con 
 
 ---
 
-## Estadísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alejandrozamoradev-del&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrozamoradev-del&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
 
 ---
 
