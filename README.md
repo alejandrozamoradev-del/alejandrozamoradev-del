@@ -69,7 +69,6 @@ Diseño y despliegue de infraestructura Cat6 para más de 40 puntos de red, con 
 ---
 
 
----
 
 ## Contacto
 
